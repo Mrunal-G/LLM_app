@@ -1,4 +1,6 @@
-# React + Vite
+# ReactJs + LangChainJS 
+
+OpenAI HuggingFaceInference
 <!-- 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -13,4 +15,7 @@ Terminal:
 > npm install
 
 > npm run dev
+
+
+Next Step: LangChainJs + Microsoft Presidio
 
