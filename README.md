@@ -19,3 +19,5 @@ Terminal:
 
 Next Step: LangChainJs + Microsoft Presidio
 
+![](https://github.com/Mrunal-G/LLM_NER/blob/main/images/pic2.png)
+
