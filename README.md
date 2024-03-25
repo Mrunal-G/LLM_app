@@ -1,5 +1,8 @@
 # ReactJs + LangChainJS 
 
+Personally Identifiable Information (PII) detection using Large Language Model (LLM) web app.
+The web app detects the custom taxanomy of PII entity types in a user text.
+
 OpenAI HuggingFaceInference
 <!-- 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
