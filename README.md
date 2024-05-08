@@ -1,6 +1,6 @@
 # ReactJs + LangChainJS 
 
-Personally Identifiable Information (PII) detection using Large Language Model (LLM) web app.
+Personally Identifiable Information (PII) detection using Zero shot/ few shot instruction tuned Large Language Model (LLM) web app.
 The web app detects the custom taxanomy of PII entity types in a user text.
 
 OpenAI HuggingFaceInference
